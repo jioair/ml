@@ -1,0 +1,15 @@
+Day,Temperature,Outlook,Humidity,Wind,Game
+1,hot,sunny,low,strong,no
+2,mild,overcast,low,strong,yes
+3,cool,sunny,high,strong,yes
+4,hot,overcast,low,weak,yes
+5,hot,sunny,high,weak,yes
+6,cool,sunny,low,strong,no
+7,mild,sunny,high,weak,no
+8,hot,overcast,low,strong,yes
+9,mild,sunny,low,weak,no
+10,mild,overcast,low,weak,yes
+11,cool,sunny,high,strong,no
+12,hot,sunny,low,strong,yes
+13,cool,overcast,high,weak,no
+14,mild,sunny,low,weak,yes
